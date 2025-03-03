@@ -1,3 +1,33 @@
+header{
+   height: 170px;
+ background-color: rgba(6, 79, 249, 0.738);
+}
 h1{
-    color: red;
+    background-image: url(../img/pattern.png);
+    height: 170px;
+    margin-block: 0px;
+    margin-inline: 0px;
+}
+.image{
+    background-image: url(../img/logo.svg);
+    height: 100px;
+    width: 395px;
+    background-color: rgba(255, 0, 0, 0);
+}
+div{
+width: 150px;
+height: 150px;
+}
+body{
+    margin: 0px;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    text-align: left;
+}
+em{
+    color: rgba(123, 118, 118, 0.5);
+    font-size: 25px;
+    
 }
